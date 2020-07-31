@@ -6,7 +6,8 @@ Here are some ideas to get you started:
 * 🧪 Currently working on **Deep Reinforcement Learning**
 * 📖 Currently learning **Machine Learning** & **Back-end**.
 * 🎓 Bachelor of the Internet of things engineering, Master's degree in reading.
-* 📪 How to reach me: [Email](mailto:gxywy@hotmail.com) [Weibo](https://weibo.com/u/2436053982)
+* 📪 How to reach me: [![](https://img.shields.io/badge/-outlook-blue?style=flat-square&logo=outlook&logoColor=ffffff)](mailto:gxywy@hotmail.com) [![](https://img.shields.io/badge/-weibo-red?style=flat-square&logo=weibo&logoColor=ffffff)](https://weibo.com/u/2436053982/)
+
 <details>
   <summary>More about me...</summary>
   <br>
@@ -15,6 +16,7 @@ Here are some ideas to get you started:
 * ⚡ My resume : ...
  </details>
 
+- - -
 #### Platform & Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
 [![](https://img.shields.io/badge/Windows-10-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/get-windows-10)
