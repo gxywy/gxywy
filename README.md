@@ -1,12 +1,14 @@
 # Hi there 👋
 ![](https://badges.pufler.dev/visits/gxywy/gxywy?style=for-the-badge)
+![](https://badges.pufler.dev/years/gxywy?style=for-the-badge)
+![](https://badges.pufler.dev/repos/gxywy?style=for-the-badge)
 
 Here are some ideas to get you started:
 
 * 🧪 Currently working on **Deep Reinforcement Learning**
 * 📖 Currently learning **Machine Learning** & **Back-end**.
 * 🎓 Bachelor of the Internet of things engineering, Master's degree in reading.
-* 📪 How to reach me: [![](https://img.shields.io/badge/hotmail-gxywy-blue?style=flat-square)](mailto:gxywy@hotmail.com) [![](https://img.shields.io/badge/weibo-@M1croyu-red?style=flat-square)](https://weibo.com/u/2436053982/)
+* 📪 How to reach me: ![Email](mailto:gxywy@hotmail.com) & ![Weibo](https://weibo.com/u/2436053982/)
 
 <details>
   <summary>More about me...</summary>
@@ -27,7 +29,6 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)]()
-[![](https://img.shields.io/badge/-Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=ffffff)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=ffffff)](https://www.github.com/)
 [![](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
