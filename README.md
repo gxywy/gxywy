@@ -6,12 +6,11 @@ Here are some ideas to get you started:
 * 🧪 Currently working on **Deep Reinforcement Learning**
 * 📖 Currently learning **Machine Learning** & **Back-end**.
 * 🎓 Bachelor of the Internet of things engineering, Master's degree in reading.
-* 📪 How to reach me: [![](https://img.shields.io/badge/-outlook-blue?style=flat-square&logo=outlook&logoColor=ffffff)](mailto:gxywy@hotmail.com) [![](https://img.shields.io/badge/-weibo-red?style=flat-square&logo=weibo&logoColor=ffffff)](https://weibo.com/u/2436053982/)
+* 📪 How to reach me: [![](https://img.shields.io/badge/hotmail-gxywy-blue?style=flat-square)](mailto:gxywy@hotmail.com) [![](https://img.shields.io/badge/weibo-@M1croyu-red?style=flat-square)](https://weibo.com/u/2436053982/)
 
 <details>
   <summary>More about me...</summary>
   <br>
-* 📝 WeiBlog: ...
 * 📝 Blog: ...
 * ⚡ My resume : ...
  </details>
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Java-F29111?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
+[![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
 [![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)]()
 [![](https://img.shields.io/badge/-Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=ffffff)]()
 [![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=ffffff)](https://www.latex-project.org/)
