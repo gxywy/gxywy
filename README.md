@@ -11,9 +11,11 @@ Here are some ideas to get you started:
 <details>
   <summary>More about me...</summary>
   <br>
+  
 * 📝 Blog: ...
 * ⚡ My resume : ...
- </details>
+
+</details>
 
 - - -
 #### Platform & Tools
