@@ -1,17 +1,18 @@
-### Hi there 👋
-![](https://badges.pufler.dev/visits/gxywy/gxywy?style=for-the-badge&logo=appveyor)](https://github.com/gxywy/gxywy)
+# Hi there 👋
+![](https://badges.pufler.dev/visits/gxywy/gxywy?style=for-the-badge)
 
 Here are some ideas to get you started:
 
-- 🧪 Currently working on *Deep Reinforcement Learning*
-- 📚 Currently learning *Machine Learning* & *Back-end*.
-- 🎓 Bachelor of the Internet of things engineering, Master's degree in reading.
-- 📫 How to reach me: [@microyu](mailto:gxywy@hotmail.com)
+* 🧪 Currently working on **Deep Reinforcement Learning**
+* 📖 Currently learning **Machine Learning** & **Back-end**.
+* 🎓 Bachelor of the Internet of things engineering, Master's degree in reading.
+* 📪 How to reach me: [Email](mailto:gxywy@hotmail.com) [Weibo](https://weibo.com/u/2436053982)
 <details>
-  <summary>More about me</summary>
+  <summary>More about me...</summary>
   <br>
-- 📝 Blog: ...
-- ⚡ My resume : ...
+* 📝 WeiBlog: ...
+* 📝 Blog: ...
+* ⚡ My resume : ...
  </details>
 
 #### Platform & Tools
