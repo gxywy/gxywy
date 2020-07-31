@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 * 🧪 Currently working on **Deep Reinforcement Learning**
 * 📖 Currently learning **Machine Learning** & **Back-end**.
 * 🎓 Bachelor of the Internet of things engineering, Master's degree in reading.
-* 📪 How to reach me: ![Email](mailto:gxywy@hotmail.com) & ![Weibo](https://weibo.com/u/2436053982/)
+* 📪 How to reach me: [Email](mailto:gxywy@hotmail.com) & [Weibo](https://weibo.com/u/2436053982/)
 
 <details>
   <summary>More about me...</summary>
