@@ -20,10 +20,10 @@
 
 <table>
 <td valign="top" width="50%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gxywy" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gxywy&hide=issues,prs&hide_border=true" />
 </td>
 <td valign="top" width="50%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxywy&layout=compact" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxywy&layout=compact&hide_border=true" />
 </td>
 </table>
 
