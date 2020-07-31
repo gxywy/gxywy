@@ -1,5 +1,18 @@
-<!--
-**![](https://kawaii-counter.glitch.me/count.svg)](https://glitch.com/~kawaii-counter)-->
+### Hi there 👋
+![](https://badges.pufler.dev/visits/gxywy/gxywy?style=for-the-badge&logo=appveyor)](https://github.com/gxywy/gxywy)
+
+Here are some ideas to get you started:
+
+- 🧪 Currently working on *Deep Reinforcement Learning*
+- 📚 Currently learning *Machine Learning* & *Back-end*.
+- 🎓 Bachelor of the Internet of things engineering, Master's degree in reading.
+- 📫 How to reach me: [@microyu](mailto:gxywy@hotmail.com)
+<details>
+  <summary>More about me</summary>
+  <br>
+- 📝 Blog: ...
+- ⚡ My resume : ...
+ </details>
 
 #### Platform & Tools
 [![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
@@ -16,31 +29,3 @@
 [![](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
-
-
-<table>
-<td valign="top" width="50%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=gxywy&hide=issues,prs&hide_border=true" />
-</td>
-<td valign="top" width="50%">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gxywy&layout=compact&hide_border=true" />
-</td>
-</table>
-
-<!--
-### Hi there 👋
-
-**gxywy/gxywy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
