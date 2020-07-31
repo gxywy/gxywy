@@ -8,16 +8,27 @@
 [![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 
 [![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Java-F05032?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
-[![](https://img.shields.io/badge/-GitHub-222222?style=flat-square&logo=github&logoColor=ffffff)](https://www.github.com/)
+[![](https://img.shields.io/badge/-Java-23ED8B00?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
+[![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)]()
+[![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=ffffff)](https://www.latex-project.org/)
+[![](https://img.shields.io/badge/-Markdown-%23000000.svg?&style=flat-square&logo=markdown&logoColor=ffffff)]()
+[![](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=ffffff)](https://www.github.com/)
+[![](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
 [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 
+<td valign="top" width="50%">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gxywy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</td>
+<td valign="top" width="50%">
+[![gxywy's github stats](https://github-readme-stats.vercel.app/api?username=gxywy)](https://github.com/anuraghazra/github-readme-stats)
+</td>
 
-### Hi there 👋
 <!--
+### Hi there 👋
+
 **gxywy/gxywy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+
 
 Here are some ideas to get you started:
 
@@ -29,4 +40,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+-->
