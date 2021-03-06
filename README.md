@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 * 🧪 Currently working on **Deep Reinforcement Learning**
 * 📖 Currently learning **Machine Learning** & **Back-end**.
-* 🎓 Bachelor of **Iot**, Master's degree of **CS** in reading.
+* 🎓 Bachelor of **IoT**, Master's degree of **CS** in reading.
 * 📪 How to reach me: [Email](mailto:gxywy@hotmail.com) & WX: bTFjcm95dQ==
 
 <details>
