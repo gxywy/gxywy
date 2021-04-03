@@ -9,12 +9,11 @@ Here are some ideas to get you started:
 * 📖 Currently learning **Machine Learning** & **Back-end**.
 * 🎓 Bachelor of **IoT**, Master's degree of **CS** in reading.
 * 📪 How to reach me: [Email](mailto:gxywy@hotmail.com) & WX: bTFjcm95dQ==
+* 📝 Blog: [Microyu's Blog](https://blog.microyu.top)
 
 <details>
   <summary>More about me...</summary>
   <br>
-  
-* 📝 Blog: coming soon...
 * ⚡ My resume : ...
 
 </details>
