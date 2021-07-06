@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 <details>
   <summary>More about me...</summary>
   <br>
-* ⚡ My resume : ...
+<li> ⚡ My resume : ... </li>
 
 </details>
 
