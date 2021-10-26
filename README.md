@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 * 🧪 Currently working on **Deep Reinforcement Learning**
-* 📖 Currently learning **Machine Learning** & **Back-end**.
+* 📖 Currently learning **Deep Learning** & **Back-end**.
 * 🎓 Bachelor of **IoT**, Master's degree of **CS** in reading.
 * 📪 How to reach me: [Email](mailto:gxywy@hotmail.com) & WX: bTFjcm95dQ== (base64)
 * 📝 Blog: [Microyu's Blog](https://blog.microyu.top)
