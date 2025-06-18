@@ -5,11 +5,10 @@
 
 Here are some ideas to get you started:
 
-* 🧪 Currently working on **Deep Reinforcement Learning**
-* 📖 Currently learning **Deep Learning** & **Back-end**.
+* 🧪 Currently working on **Deep Reinforcement Learning** & **Back-end**.
 * 🎓 Bachelor of **IoT**, Master's degree of **CS**.
 * 📪 How to reach me: [Email](mailto:gxywy@hotmail.com) & WX: bTFjcm95dQ== (base64)
-* 📝 Blog: [Microyu's Blog](https://blog.microyu.top)
+* 📝 Homepage: [Microyu's Homepage](https://gxywy.github.io/)
 
 <details>
   <summary>More about me...</summary>
