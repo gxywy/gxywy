@@ -1,34 +1,45 @@
-# Hi there 👋
-![](https://badges.pufler.dev/visits/gxywy/gxywy?style=for-the-badge)
-![](https://badges.pufler.dev/years/gxywy?style=for-the-badge)
-![](https://badges.pufler.dev/repos/gxywy?style=for-the-badge)
+# Hi, I'm Xiaoyu Gong (Microyu)
 
-Here are some ideas to get you started:
+Deep reinforcement learning · Backend development · Shanghai, China
 
-* 🧪 Currently working on **Deep Reinforcement Learning** & **Back-end**.
-* 🎓 Bachelor of **IoT**, Master's degree of **CS**.
-* 📪 How to reach me: [Email](mailto:gxywy@hotmail.com) & WX: bTFjcm95dQ== (base64)
-* 📝 Homepage: [Microyu's Homepage](https://gxywy.github.io/)
+I build tools for reinforcement learning experiments and explore how web systems work.
+
+[Homepage](https://gxywy.github.io/) · [Email](mailto:gxywy@hotmail.com)
+
+## Research
+
+My research interests include reinforcement learning and deep learning.
+
+**Adaptive Estimation Q-learning with Uncertainty and Familiarity**
+
+**IJCAI 2023** · [PyTorch implementation](https://github.com/gxywy/AEQ) · [More publications](https://gxywy.github.io/#-publications)
+
+## Selected Projects
+
+| Project | What it does |
+| --- | --- |
+| [rl-plotter](https://github.com/gxywy/rl-plotter) | Log RL experiments and visualize learning curves across runs. |
+| [rl-bigwatermelon](https://github.com/gxywy/rl-bigwatermelon) | Play the Big Watermelon game with deep RL using A3C and TD3. |
+| [mini-webserver](https://github.com/gxywy/mini-webserver) | A lightweight Java web server with HTTP handling, a Servlet container, and a template engine. |
+| [taskflow](https://github.com/gxywy/taskflow) | A web application for automating scripts and programs. |
+
+## Technologies
+
+- **Research:** Python · PyTorch · LaTeX
+- **Development:** Java · C++ · MySQL · Docker · Nginx
+
+## Education
+
+- Master's in Computer Science · Jilin University · 2020–2023
+- Bachelor's in Internet of Things · Jilin University · 2016–2020
+
+## Contact
+
+Reach me at [gxywy@hotmail.com](mailto:gxywy@hotmail.com), or visit [my homepage](https://gxywy.github.io/).
 
 <details>
-  <summary>More about me...</summary>
-  <br>
-<li> ⚡ My resume : ... </li>
+<summary>WeChat</summary>
+
+WeChat ID (Base64): `bTFjcm95dQ==`
 
 </details>
-
-- - -
-#### Platform & Tools
-[![](https://img.shields.io/badge/Windows-11-2376bc?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/)
-[![](https://img.shields.io/badge/OS-Arch%20Linux-33aadd?style=flat-square&logo=arch-linux&logoColor=ffffff)](https://www.archlinux.org/)
-[![](https://img.shields.io/badge/IDE-IntelliJ_IDEA-blue?style=flat-square&logo=intellij-idea&logoColor=ffffff)](https://www.jetbrains.com/idea/)
-[![](https://img.shields.io/badge/Editor-Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
-
-[![](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=ffffff)](https://www.java.com/)
-[![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)]()
-[![](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=ffffff)](https://www.latex-project.org/)
-[![](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=GitHub&logoColor=ffffff)](https://www.github.com/)
-[![](https://img.shields.io/badge/-MySQL-F29111?style=flat-square&logo=MySQL&logoColor=ffffff)](https://www.mysql.com/)
-[![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)](https://www.docker.com/)
-[![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
